@@ -1,0 +1,1 @@
+-record(message_to,{to_name, message}).
